@@ -1,0 +1,20 @@
+/* style.css */
+
+.first-class{
+    background-color: #f08080;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#first-id{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.added-size{
+    font-size: 24px;
+}
+
+#second-id{
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
